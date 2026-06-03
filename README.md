@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that programmatically extracts unstructured web data on upcoming vehicles, processes and engineers key market features using Python, and delivers an interactive data visualization dashboard via Tableau Public.
 
-**[View the Interactive Tableau Dashboard Here](https://public.tableau.com/)** *(Note: Replace this placeholder text with your actual shortened Bitly or Tableau Public link!)*
+**[View the Interactive Tableau Dashboard Here](https://tabsoft.co/49yEBrp)** *(Note: Replace this placeholder text with your actual shortened Bitly or Tableau Public link!)*
 
 ---
 
